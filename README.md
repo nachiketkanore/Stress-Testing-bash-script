@@ -1,6 +1,16 @@
 **Note**: A more detailed explanation can be found [here](https://codeforces.com/blog/entry/78985) on `Codeforces`.
 # Stress Testing bash script
 
+
+Good articles on stress testing :
+- https://ali-ibrahim137.github.io/competitive/programming/2020/08/23/Stress-Testing.html
+- https://codeforces.com/blog/entry/78985
+- https://codeforces.com/blog/entry/47371
+- https://codeforces.com/blog/entry/71558
+- https://codeforces.com/blog/entry/76584
+- https://codeforces.com/blog/entry/1633
+
+
 In competitive programming, stress testing is a technique of testing your solution on a number
 of random test cases to find where the code might fail. 
 
